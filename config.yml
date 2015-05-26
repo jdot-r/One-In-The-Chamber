@@ -1,0 +1,56 @@
+---
+endTime: 180
+gameTime: 300
+waitTime: 180
+godTime: 15
+sign:
+  x: 152
+  "y": 67
+  z: 131
+  level: ELITEs
+pos1:
+  x: 6
+  "y": 77
+  z: -58
+  level: Hive
+pos2:
+  x: 6
+  "y": 77
+  z: -58
+  level: Hive
+pos3:
+  x: 6
+  "y": 77
+  z: -58
+  level: Hive
+pos4:
+  x: 6
+  "y": 77
+  z: -58
+  level: Hive
+pos5:
+  x: 6
+  "y": 77
+  z: -58
+  level: Hive
+pos6:
+  x: 6
+  "y": 77
+  z: -58
+  level: Hive
+pos7:
+  x: 6
+  "y": 77
+  z: -58
+  level: Hive
+pos8:
+  x: 6
+  "y": 77
+  z: -58
+  level: Hive
+lastpos:
+  x: 6
+  "y": 77
+  z: -58
+  level: Hive
+...
