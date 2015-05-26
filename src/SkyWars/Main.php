@@ -1,5 +1,5 @@
 <?php
-namespace SkyWars;
+namespace OITC;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\event\Listener;
