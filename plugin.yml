@@ -1,24 +1,24 @@
 name: SkyWars
 main: SkyWars\Main
-version: "1.0(help by FENGberd)"
+version: "2.1"
 api: [1.0.0]
 load: POSTWORLD
 author: EnderPE
 commands:
- fsg:
-  permission: FSurvivalGame.command.fsg
-  description: FSurvivalGame Main Command
-  usage: /fsg <set|remove>
+ sw:
+  permission: SkyWars.command.sw
+  description: Main Command
+  usage: /sw <set|remove>
  lobby:
-  permission: FSurvivalGame.command.lobby
+  permission: SkyWars.command.lobby
   description: back to lobby
   usage: /lobby
 permissions:
- FSurvivalGame.*:
+ SkyWars.*:
   description: the main permission
   default: op
   children:
-   FSurvivalGame.command.*:
+   SkyWars.command.*:
     description: use commands in plugin
     default: op
     children:
